@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomerMaster</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6d23d18-84c6-4328-a3af-c78e32f72c05</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3935cf49-1045-434c-b774-b53c528591ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Customer Master'</defaultValue>
+      <description></description>
+      <id>3935cf49-1045-434c-b774-b53c528591ba</id>
+      <masked>false</masked>
+      <name>MasterName</name>
+   </variable>
+</TestCaseEntity>

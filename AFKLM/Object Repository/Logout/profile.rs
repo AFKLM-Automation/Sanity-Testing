@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profile</name>
+   <tag></tag>
+   <elementGuidId>c84b76a0-cd65-43c5-9384-43bde69672e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.acf_icon_avatar.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userMenu']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Shubham Jadhav shubham.jadhav@afklm.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>166f1061-6e03-4c50-8f45-962edda22d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>acf_icon_avatar ng-star-inserted</value>
+      <webElementGuid>cce3ef88-7fd1-469f-9dbf-0078a14422ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userMenu&quot;)/div[@class=&quot;acf-dropdown-link&quot;]/a[1]/div[@class=&quot;acf-header-user&quot;]/div[@class=&quot;acf-header-user-image&quot;]/i[@class=&quot;acf_icon_avatar ng-star-inserted&quot;]</value>
+      <webElementGuid>ef8bece8-b7e0-42a3-98d6-52a529056578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userMenu']/div/a/div/div/i</value>
+      <webElementGuid>87f27b31-da23-4017-af5c-9d53bbf72bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/i</value>
+      <webElementGuid>abf52eb2-9198-42a3-b1d4-7af6acd421ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
